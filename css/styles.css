@@ -44,3 +44,11 @@ a, a:hover {
   bottom: 0;
   z-index: 100;
   /*overlay on top of carousel instead of underneath it*/ }
+
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }

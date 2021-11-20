@@ -13,3 +13,20 @@ $(function() {
         }
     });
 });
+
+$(function() {
+        $("#reserveButton").click(function(){
+            $("#reserveModal").modal("toggle");
+        });
+});
+
+$(function() {
+    $("#loginButton").click(function(){
+        $("#loginModal").modal("toggle");
+    });
+});
+
+
+
+
+//add event listener to it 
